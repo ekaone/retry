@@ -8,6 +8,8 @@ Zero dependencies. Works in Node 18+, Bun, Deno, browsers, and edge runtimes.
 
 ## Comparison — `@ekaone/retry` vs native `fetch`
 
+See detailed comparison table [here](https://ekaone.github.io/retry/).
+
 ### Retry
 
 | Feature | `@ekaone/retry` | `fetch` |

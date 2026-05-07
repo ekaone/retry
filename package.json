@@ -1,6 +1,6 @@
 {
   "name": "@ekaone/retry",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Composable retry primitive with exponential backoff, jitter, and AbortSignal support",
   "keywords": [
     "retry",

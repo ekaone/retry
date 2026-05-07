@@ -1,5 +1,3 @@
-# > Under development, not released yet
-
 # @ekaone/retry
 
 > Composable retry primitive with exponential backoff, jitter, and AbortSignal support.
@@ -129,6 +127,8 @@ try {
 All strategies are capped at `maxDelayMs`. Enable `jitter: true` to randomise between 0 and the computed value.
 
 ## Integration with `@ekaone/n-agent`
+
+[n-agent](https://github.com/ekaone/n-agent) is multi-agent conversation loop with human-in-the-loop support
 
 ```ts
 import { createAgent } from '@ekaone/n-agent'

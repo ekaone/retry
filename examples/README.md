@@ -5,5 +5,5 @@
 pnpm build
 
 # Then run
-tsx ./examples/fetch.ts
+tsx ./examples/with-fetch.ts
 ```
